@@ -1,2 +1,5 @@
 # Maven Target Directory
 target/
+
+# IDE
+.idea/
